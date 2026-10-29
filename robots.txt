@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adminprplus.github.io/thu-nghiem/sitemap.xml
